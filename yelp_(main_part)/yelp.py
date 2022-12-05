@@ -3,7 +3,7 @@ import requests
 from urllib.parse import quote
 import json
 
-API_KEY= 'bBIGqWedlHoDz9W6dg4krgfHxWTQ54SVKlGGgB3fJyijnbVsrUI2ukIzxFGoXS8Sq4mELh7i26R63Uo4_XgnuOiPS_XJ_q7kdTiDl042OpEzhqirtn_1TTOWDnGIY3Yx'
+API_KEY= 'b...x' #I hide parts of my actual key
 API_HOST = 'https://api.yelp.com'
 SEARCH_PATH = '/v3/businesses/search'
 
