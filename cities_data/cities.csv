@@ -1,0 +1,332 @@
+﻿City,State,Location
+New York,New York,40.66°N 73.93°W
+Los Angeles,California,34.01°N 118.41°W
+Chicago,Illinois,41.83°N 87.68°W
+Houston,Texas,29.78°N 95.39°W
+Phoenix,Arizona,33.57°N 112.09°W
+Philadelphia,Pennsylvania,40.00°N 75.13°W
+San Antonio,Texas,29.47°N 98.52°W
+San Diego,California,32.81°N 117.13°W
+Dallas,Texas,32.79°N 96.76°W
+San Jose,California,37.29°N 121.81°W
+Austin,Texas,30.30°N 97.75°W
+Jacksonville,Florida,30.33°N 81.66°W
+Fort Worth,Texas,32.78°N 97.34°W
+Columbus,Ohio,39.98°N 82.98°W
+Indianapolis,Indiana,39.77°N 86.14°W
+Charlotte,North Carolina,35.20°N 80.83°W
+San Francisco,California,37.72°N 123.03°W
+Seattle,Washington,47.62°N 122.35°W
+Denver,Colorado,39.76°N 104.88°W
+Oklahoma City,Oklahoma,35.46°N 97.51°W
+Nashville,Tennessee,36.17°N 86.78°W
+El Paso,Texas,31.84°N 106.42°W
+Washington,District of Columbia,38.90°N 77.01°W
+Boston,Massachusetts,42.33°N 71.02°W
+Las Vegas,Nevada,36.22°N 115.26°W
+Portland,Oregon,45.53°N 122.65°W
+Detroit,Michigan,42.38°N 83.10°W
+Louisville,Kentucky,38.16°N 85.64°W
+Memphis,Tennessee,35.10°N 89.97°W
+Baltimore,Maryland,39.30°N 76.61°W
+Milwaukee,Wisconsin,43.06°N 87.96°W
+Albuquerque,New Mexico,35.10°N 106.64°W
+Fresno,California,36.78°N 119.79°W
+Tucson,Arizona,32.15°N 110.87°W
+Sacramento,California,38.56°N 121.46°W
+Mesa,Arizona,33.40°N 111.71°W
+Kansas City,Missouri,39.12°N 94.55°W
+Atlanta,Georgia,33.76°N 84.42°W
+Omaha,Nebraska,41.26°N 96.04°W
+Colorado Springs,Colorado,38.86°N 104.76°W
+Raleigh,North Carolina,35.83°N 78.64°W
+Virginia Beach,Virginia,36.78°N 76.02°W
+Long Beach,California,33.80°N 118.15°W
+Miami,Florida,25.77°N 80.20°W
+Oakland,California,37.76°N 122.22°W
+Minneapolis,Minnesota,44.96°N 93.26°W
+Tulsa,Oklahoma,36.12°N 95.90°W
+Bakersfield,California,35.32°N 119.01°W
+Wichita,Kansas,37.69°N 97.34°W
+Arlington,Texas,32.70°N 97.12°W
+Aurora,Colorado,39.68°N 104.68°W
+Tampa,Florida,27.97°N 82.47°W
+New Orleans,Louisiana,30.05°N 89.93°W
+Cleveland,Ohio,41.47°N 81.67°W
+Anaheim,California,33.85°N 117.76°W
+Honolulu,Hawaii,21.32°N 157.84°W
+Henderson,Nevada,36.00°N 115.03°W
+Stockton,California,37.97°N 121.31°W
+Lexington,Kentucky,38.04°N 84.45°W
+Corpus Christi,Texas,27.75°N 97.17°W
+Riverside,California,33.93°N 117.39°W
+Santa Ana,California,33.73°N 117.88°W
+Orlando,Florida,28.41°N 81.27°W
+Irvine,California,33.67°N 117.77°W
+Cincinnati,Ohio,39.14°N 84.50°W
+Newark,New Jersey,40.72°N 74.17°W
+Saint Paul,Minnesota,44.94°N 93.10°W
+Pittsburgh,Pennsylvania,40.43°N 79.97°W
+Greensboro,North Carolina,36.09°N 79.82°W
+St. Louis,Missouri,38.63°N 90.24°W
+Lincoln,Nebraska,40.81°N 96.68°W
+Plano,Texas,33.05°N 96.74°W
+Anchorage,Alaska,61.17°N 149.28°W
+Durham,North Carolina,35.98°N 78.90°W
+Jersey City,New Jersey,40.71°N 74.06°W
+Chandler,Arizona,33.28°N 111.85°W
+Chula Vista,California,32.62°N 117.01°W
+Buffalo,New York,42.89°N 78.85°W
+North Las Vegas,Nevada,36.28°N 115.09°W
+Gilbert,Arizona,33.31°N 111.74°W
+Madison,Wisconsin,43.08°N 89.42°W
+Reno,Nevada,39.54°N 119.84°W
+Toledo,Ohio,41.66°N 83.58°W
+Fort Wayne,Indiana,41.08°N 85.14°W
+Lubbock,Texas,33.56°N 101.88°W
+St. Petersburg,Florida,27.76°N 82.64°W
+Laredo,Texas,27.56°N 99.48°W
+Irving,Texas,32.85°N 96.97°W
+Chesapeake,Virginia,36.67°N 76.30°W
+Winston–Salem,North Carolina,36.10°N 80.26°W
+Glendale,Arizona,33.53°N 112.18°W
+Scottsdale,Arizona,33.68°N 111.86°W
+Garland,Texas,32.90°N 96.63°W
+Boise,Idaho,43.60°N 116.23°W
+Norfolk,Virginia,36.92°N 76.24°W
+Spokane,Washington,47.66°N 117.43°W
+Fremont,California,37.49°N 121.94°W
+Richmond,Virginia,37.53°N 77.47°W
+Santa Clarita,California,34.40°N 118.50°W
+San Bernardino,California,34.14°N 117.29°W
+Baton Rouge,Louisiana,30.44°N 91.13°W
+Hialeah,Florida,25.86°N 80.30°W
+Tacoma,Washington,47.25°N 122.45°W
+Modesto,California,37.63°N 121.00°W
+Port St. Lucie,Florida,27.28°N 80.38°W
+Huntsville,Alabama,34.69°N 86.67°W
+Des Moines,Iowa,41.57°N 93.61°W
+Moreno Valley,California,33.92°N 117.20°W
+Fontana,California,34.10°N 117.46°W
+Frisco,Texas,33.15°N 96.82°W
+Rochester,New York,43.16°N 77.61°W
+Yonkers,New York,40.94°N 73.86°W
+Fayetteville,North Carolina,35.08°N 78.97°W
+Worcester,Massachusetts,42.26°N 71.80°W
+Columbus,Georgia,32.51°N 84.87°W
+Cape Coral,Florida,26.64°N 81.99°W
+McKinney,Texas,33.19°N 96.66°W
+Little Rock,Arkansas,34.72°N 92.35°W
+Oxnard,California,34.20°N 119.20°W
+Amarillo,Texas,35.19°N 101.83°W
+Augusta,Georgia,33.36°N 82.07°W
+Salt Lake City,Utah,40.77°N 111.93°W
+Montgomery,Alabama,32.34°N 86.26°W
+Birmingham,Alabama,33.52°N 86.79°W
+Grand Rapids,Michigan,42.96°N 85.65°W
+Grand Prairie,Texas,32.68°N 97.02°W
+Overland Park,Kansas,38.88°N 94.69°W
+Tallahassee,Florida,30.45°N 84.25°W
+Huntington Beach,California,33.69°N 118.00°W
+Sioux Falls,South Dakota,43.53°N 96.73°W
+Peoria,Arizona,33.78°N 112.30°W
+Knoxville,Tennessee,35.97°N 83.94°W
+Glendale,California,34.18°N 118.24°W
+Vancouver,Washington,45.63°N 122.59°W
+Providence,Rhode Island,41.82°N 71.41°W
+Akron,Ohio,41.08°N 81.52°W
+Brownsville,Texas,25.99°N 97.45°W
+Mobile,Alabama,30.66°N 88.10°W
+Newport News,Virginia,37.07°N 76.52°W
+Tempe,Arizona,33.38°N 111.93°W
+Shreveport,Louisiana,32.46°N 93.79°W
+Chattanooga,Tennessee,35.06°N 85.24°W
+Fort Lauderdale,Florida,26.14°N 80.14°W
+Aurora,Illinois,41.76°N 88.29°W
+Elk Grove,California,38.41°N 121.38°W
+Ontario,California,34.03°N 117.60°W
+Salem,Oregon,44.92°N 123.02°W
+Cary,North Carolina,35.78°N 78.81°W
+Santa Rosa,California,38.44°N 122.70°W
+Rancho Cucamonga,California,34.12°N 117.56°W
+Eugene,Oregon,44.05°N 123.11°W
+Oceanside,California,33.22°N 117.30°W
+Clarksville,Tennessee,36.56°N 87.34°W
+Garden Grove,California,33.77°N 117.96°W
+Lancaster,California,34.69°N 118.17°W
+Springfield,Missouri,37.19°N 93.29°W
+Pembroke Pines,Florida,26.02°N 80.34°W
+Fort Collins,Colorado,40.54°N 105.06°W
+Palmdale,California,34.59°N 118.10°W
+Salinas,California,36.69°N 121.63°W
+Hayward,California,37.62°N 122.10°W
+Corona,California,33.86°N 117.56°W
+Paterson,New Jersey,40.91°N 74.16°W
+Murfreesboro,Tennessee,35.85°N 86.41°W
+Macon,Georgia,32.80°N 83.69°W
+Lakewood,Colorado,39.69°N 105.11°W
+Killeen,Texas,31.07°N 97.73°W
+Springfield,Massachusetts,42.11°N 72.54°W
+Alexandria,Virginia,38.82°N 77.08°W
+Kansas City,Kansas,39.12°N 94.74°W
+Sunnyvale,California,37.38°N 122.02°W
+Hollywood,Florida,26.03°N 80.16°W
+Roseville,California,38.76°N 121.31°W
+Charleston,South Carolina,32.81°N 79.95°W
+Escondido,California,33.13°N 117.07°W
+Joliet,Illinois,41.51°N 88.14°W
+Jackson,Mississippi,32.31°N 90.21°W
+Bellevue,Washington,47.59°N 122.15°W
+Surprise,Arizona,33.67°N 112.45°W
+Naperville,Illinois,41.74°N 88.16°W
+Pasadena,Texas,29.65°N 95.15°W
+Pomona,California,34.05°N 117.76°W
+Bridgeport,Connecticut,41.18°N 73.19°W
+Denton,Texas,33.21°N 97.14°W
+Rockford,Illinois,42.25°N 89.06°W
+Mesquite,Texas,32.76°N 96.58°W
+Savannah,Georgia,32.00°N 81.15°W
+Syracuse,New York,43.04°N 76.14°W
+McAllen,Texas,26.23°N 98.24°W
+Torrance,California,33.83°N 118.34°W
+Olathe,Kansas,38.88°N 94.81°W
+Visalia,California,36.32°N 119.32°W
+Thornton,Colorado,39.91°N 104.94°W
+Fullerton,California,33.88°N 117.92°W
+Gainesville,Florida,29.67°N 82.34°W
+Waco,Texas,31.56°N 97.18°W
+West Valley City,Utah,40.68°N 112.01°W
+Warren,Michigan,42.49°N 83.02°W
+Lakewood,New Jersey,40.08°N 74.21°W
+Hampton,Virginia,37.04°N 76.29°W
+Dayton,Ohio,39.77°N 84.19°W
+Columbia,South Carolina,34.02°N 80.89°W
+Orange,California,33.78°N 117.86°W
+Cedar Rapids,Iowa,41.96°N 91.67°W
+Stamford,Connecticut,41.07°N 73.54°W
+Victorville,California,34.52°N 117.35°W
+Pasadena,California,34.16°N 118.13°W
+Elizabeth,New Jersey,40.66°N 74.19°W
+New Haven,Connecticut,41.31°N 72.92°W
+Miramar,Florida,25.97°N 80.33°W
+Kent,Washington,47.38°N 122.21°W
+Sterling Heights,Michigan,42.58°N 83.03°W
+Carrollton,Texas,32.98°N 96.89°W
+Coral Springs,Florida,26.27°N 80.25°W
+Midland,Texas,32.02°N 102.11°W
+Norman,Oklahoma,35.24°N 97.34°W
+Athens,Georgia,33.94°N 83.37°W
+Santa Clara,California,37.36°N 121.96°W
+Columbia,Missouri,38.95°N 92.32°W
+Fargo,North Dakota,46.86°N 96.82°W
+Pearland,Texas,29.55°N 95.32°W
+Simi Valley,California,34.26°N 118.74°W
+Meridian,Idaho,43.61°N 116.39°W
+Topeka,Kansas,39.03°N 95.69°W
+Allentown,Pennsylvania,40.59°N 75.47°W
+Thousand Oaks,California,34.19°N 118.87°W
+Abilene,Texas,32.45°N 99.73°W
+Vallejo,California,38.10°N 122.26°W
+Concord,California,37.97°N 122.00°W
+Round Rock,Texas,30.52°N 97.66°W
+Arvada,Colorado,39.83°N 105.15°W
+Clovis,California,36.82°N 119.68°W
+Palm Bay,Florida,27.98°N 80.66°W
+Independence,Missouri,39.08°N 94.35°W
+Lafayette,Louisiana,30.20°N 92.02°W
+Ann Arbor,Michigan,42.27°N 83.73°W
+Rochester,Minnesota,44.01°N 92.47°W
+Hartford,Connecticut,41.76°N 72.68°W
+College Station,Texas,30.58°N 96.29°W
+Fairfield,California,38.25°N 122.03°W
+Wilmington,North Carolina,34.20°N 77.88°W
+North Charleston,South Carolina,32.91°N 80.06°W
+Billings,Montana,45.78°N 108.54°W
+West Palm Beach,Florida,26.74°N 80.12°W
+Berkeley,California,37.86°N 122.29°W
+Cambridge,Massachusetts,42.37°N 71.11°W
+Clearwater,Florida,27.97°N 82.76°W
+West Jordan,Utah,40.60°N 112.00°W
+Evansville,Indiana,37.98°N 87.53°W
+Richardson,Texas,32.97°N 96.70°W
+Broken Arrow,Oklahoma,36.03°N 95.78°W
+Richmond,California,37.95°N 122.36°W
+League City,Texas,29.49°N 95.10°W
+Manchester,New Hampshire,42.98°N 71.44°W
+Lakeland,Florida,28.05°N 81.95°W
+Carlsbad,California,33.12°N 117.28°W
+Antioch,California,37.97°N 121.79°W
+Westminster,Colorado,39.88°N 105.06°W
+High Point,North Carolina,35.99°N 79.99°W
+Provo,Utah,40.24°N 111.64°W
+Lowell,Massachusetts,42.63°N 71.32°W
+Elgin,Illinois,42.03°N 88.32°W
+Waterbury,Connecticut,41.55°N 73.03°W
+Springfield,Illinois,39.79°N 89.64°W
+Gresham,Oregon,45.50°N 122.44°W
+Murrieta,California,33.57°N 117.19°W
+Lewisville,Texas,33.04°N 96.98°W
+Las Cruces,New Mexico,32.32°N 106.78°W
+Lansing,Michigan,42.71°N 84.55°W
+Beaumont,Texas,30.08°N 94.14°W
+Odessa,Texas,31.88°N 102.34°W
+Pueblo,Colorado,38.26°N 104.61°W
+Peoria,Illinois,40.75°N 89.61°W
+Downey,California,33.93°N 118.13°W
+Pompano Beach,Florida,26.24°N 80.13°W
+Miami Gardens,Florida,25.94°N 80.24°W
+Temecula,California,33.49°N 117.13°W
+Everett,Washington,47.95°N 122.19°W
+Costa Mesa,California,33.66°N 117.91°W
+Ventura,California,34.26°N 119.25°W
+Sparks,Nevada,39.55°N 119.73°W
+Santa Maria,California,34.93°N 120.44°W
+Sugar Land,Texas,29.59°N 95.61°W
+Greeley,Colorado,40.41°N 104.76°W
+South Fulton,Georgia,33.59°N 84.67°W
+Dearborn,Michigan,42.31°N 83.21°W
+Concord,North Carolina,35.40°N 80.60°W
+Edison,New Jersey,40.52°N 74.41°W
+Tyler,Texas,32.31°N 95.30°W
+Sandy Springs,Georgia,33.93°N 84.36°W
+West Covina,California,34.05°N 117.90°W
+Green Bay,Wisconsin,44.52°N 87.98°W
+Centennial,Colorado,39.59°N 104.86°W
+Jurupa Valley,California,34.00°N 117.46°W
+El Monte,California,34.07°N 118.02°W
+Allen,Texas,33.09°N 96.66°W
+Hillsboro,Oregon,45.52°N 122.93°W
+Menifee,California,33.69°N 117.19°W
+Nampa,Idaho,43.57°N 116.56°W
+Spokane Valley,Washington,47.67°N 117.23°W
+Rio Rancho,New Mexico,35.29°N 106.67°W
+Brockton,Massachusetts,42.08°N 71.02°W
+El Cajon,California,32.80°N 116.96°W
+Burbank,California,34.19°N 118.32°W
+Inglewood,California,33.95°N 118.34°W
+Renton,Washington,47.47°N 122.19°W
+Davie,Florida,26.07°N 80.28°W
+Rialto,California,34.11°N 117.38°W
+Boulder,Colorado,40.02°N 105.25°W
+South Bend,Indiana,41.67°N 86.26°W
+Woodbridge,New Jersey,40.56°N 74.28°W
+Vacaville,California,38.35°N 121.97°W
+Wichita Falls,Texas,33.90°N 98.52°W
+Lee's Summit,Missouri,38.92°N 94.37°W
+Edinburg,Texas,26.30°N 98.16°W
+Chico,California,39.74°N 121.83°W
+San Mateo,California,37.56°N 122.31°W
+Bend,Oregon,44.30°N 121.18°W
+Goodyear,Arizona,33.45°N 112.36°W
+Buckeye,Arizona,33.37°N 112.59°W
+Daly City,California,37.70°N 122.46°W
+Fishers,Indiana,39.96°N 86.01°W
+Quincy,Massachusetts,42.25°N 71.00°W
+Davenport,Iowa,41.55°N 90.60°W
+Hesperia,California,34.41°N 117.31°W
+New Bedford,Massachusetts,41.64°N 70.93°W
+Lynn,Massachusetts,42.47°N 70.95°W
+Carmel,Indiana,39.58°N 86.60°W
+Longmont,Colorado,40.17°N 105.11°W
+Tuscaloosa,Alabama,33.21°N 87.53°W
+Norwalk,California,33.90°N 118.08°W
