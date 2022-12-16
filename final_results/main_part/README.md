@@ -25,6 +25,12 @@ website: https://www.yelp.com/login?return_url=%2Fdevelopers%2Fv3%2Fmanage_app
 If you don't know how to do, please visit this website: https://www.ultimatebeaver.com/docs/find-yelp-api-key/  
 
 ### 02 download all files in this folder
-Download all files in this folder to your locally.  
-Open the secret.py file. Fill up your own key to replace None
-Note: for anyone who is interested in this project, you don't need to download 
+(1) Download all files in this folder to your locally.  
+(2) Open the secret.py file. Fill up your own key to replace None.  
+(3) Open app.py and run it in your terminal. Then you could just follow the prompt on the screen.  
+Note: for anyone who is interested in this project, you don't need to download yelp_cache_more_records_version.json file. This one is just for instructors to check whether I got enough data from yelp api.  
+
+### 03 More help information for this project
+I recorded a demo video to show how this project work.  
+You can find it in this website: https://www.youtube.com/watch?v=bf4lS5ajPr0&t=6s
+
