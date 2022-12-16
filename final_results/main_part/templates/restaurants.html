@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF8"/>
+    <title>Finding the best restaurants: restaurants page</title>
+</head>
+<body>
+    <form action='/restaurant' method='POST'>
+    <div id="title2">
+        <h2>Here are the 10 best restaurants we found for you! <br/></h2>
+    </div>
+    <div id="choice">
+        <p>
+            {% for restaurant in restaurants %}
+                <h2><a href={{restaurant.url}}>{{restaurant.name}}</a></h2>
+                <li>Rating: {{restaurant.rating}}</li>
+                <li>Categories: {{restaurant.categories}}</li>
+                <li>Location: {{restaurant.location}}</li>
+                <img src={{restaurant.image_url}} width="100" height="100">
+        </p>
+        {% endfor %}
+    </div>
+</body>
+</html>

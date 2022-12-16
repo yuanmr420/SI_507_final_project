@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF8"/>
+    <title>Finding the best restaurants: cities page</title>
+</head>
+<body>
+    <div id="title1">
+        <h1>Let's find which city you want to find restaurants located in!</h1>
+    </div>
+    <form action='/restaurants' method='POST'>
+    <div id="title2">
+        <h2>Which city do you want to find restaurants located in? <br/></h2>
+    </div>
+    <div id="choice">
+        <p>
+            {% for city in cities %}
+            <input type='radio' name='choice4'
+                    value='{{city}}' /> {{city}} <br/>
+        </p>
+        {% endfor %}
+    </div>
+    <input type='submit' value='Find Restaurants'/>
+    </form>
+</body>
+</html>

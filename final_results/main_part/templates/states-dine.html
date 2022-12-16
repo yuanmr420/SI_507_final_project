@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF8"/>
+    <title>Finding the best restaurants: states page</title>
+</head>
+<body>
+    <div id="title1">
+        <h1>Let's find which state you want to find restaurants dine-in!</h1>
+    </div>
+    <div id="title2">
+        <h2>Here's the map of people died of mass shooting happened in 2021 in the United States:</h2>
+    </div>
+    <div id="plot">
+        <p>{{plot_div | safe}}</p>
+    </div>
+    <div id="para">
+        <p>Data Soure: <a href="https://en.wikipedia.org/wiki/Mass_shootings_in_the_United_States">Wikipedia</a></p>
+    </div>
+
+    <form action='/cities' method='POST'>
+    <div id="title2">
+        <h2>Which state do you want to find restaurants in? <br/></h2>
+    </div>
+    <div id="choice">
+        <p>
+            {% for state in states %}
+            <input type='radio' name='choice3'
+                    value='{{state}}' /> {{state}} <br/>
+        </p>
+        {% endfor %}
+    </div>
+    <input type='submit' value='Find City'/>
+    </form>
+</body>
+</html>
