@@ -9,8 +9,9 @@ API_KEY= se.key
 API_HOST = 'https://api.yelp.com'
 SEARCH_PATH = '/v3/businesses/search'
 
-#in this part, I get all cities name. Just for collecting some records into the cache file to meet the requirements
+#In this part, I get all cities name. Just for collecting some records into the cache file to meet the requirements
 #nothing to do with the whole porjetc
+#I used absolute path, for anyone who wants to run this file, please change the path to your own
 city = pd.read_csv("d:\\2022fall 课程资料\\SI 507\\hw\\final project\\cities\\cities.csv")
 city_list = []
 for row in city.itertuples():
