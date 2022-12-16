@@ -1,0 +1,2 @@
+#please fill up your own yelp api key here
+key= 'kuMnE1cQcf8YnBR6kMRZMiigqcryZONSGLE6tRTnlKwU3r2uAqCi08pDRxecO_8Rb-HgX2PTZHdJdWwaBbRkpp3Yv3FNPBHomDbcXqfqUV8A6HvmpE4n-IvTaxaQY3Yx'
